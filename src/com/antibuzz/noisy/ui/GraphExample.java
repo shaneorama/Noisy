@@ -17,7 +17,7 @@ import java.util.Random;
  *
  */
 
-public class MinimalDynamicChart {
+public class GraphExample {
 
     public static void main(String[]args){
         // Create a chart:
@@ -77,7 +77,7 @@ public class MinimalDynamicChart {
     }
 
     /** Defcon. */
-    private MinimalDynamicChart() {
+    private GraphExample() {
         // nop
     }
 }
