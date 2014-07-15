@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE RSyntaxTheme SYSTEM "theme.dtd">
 
 <!--
@@ -11,11 +11,11 @@
     <!--<baseFont family="..." size="13"/>-->
 
     <!--  General editor colors. -->
-    <background color="293134"/>
+    <background color="252525"/>
     <caret color="c1cbc2"/>
     <selection useFG="false" bg="404E51" roundedEdges="false"/>
-    <currentLineHighlight color="2F393C" fade="false"/>
-    <marginLine fg="394448"/>
+    <currentLineHighlight color="434343" fade="false"/>
+    <marginLine fg="252525"/>
     <markAllHighlight color="6b8189"/> <!-- TODO: Fix me -->
     <markOccurrencesHighlight color="5b7179" border="false"/>
     <matchedBracket fg="6A8088" bg="6b8189" highlightBoth="false" animate="true"/>
@@ -27,9 +27,9 @@
     </secondaryLanguages>
 
     <!-- Gutter styling. -->
-    <gutterBorder color="81969A"/>
-    <lineNumbers fg="81969A"/>
-    <foldIndicator fg="6A8088" iconBg="2f383c"/>
+    <gutterBorder color="252525"/>
+    <lineNumbers fg="555555"/>
+    <foldIndicator fg="555555" iconBg="252525"/>
     <iconRowHeader activeLineRange="3399ff"/>
 
     <!-- Syntax tokens. -->

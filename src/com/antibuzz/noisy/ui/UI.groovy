@@ -21,10 +21,8 @@ class UI {
         timer.schedule(new TimerTask(){
             @Override
             public void run() {
-                try {
+                dispatch {
                     task.run()
-                } catch(Throwable t){
-                    t.printStackTrace()
                 }
             }
         },delay, period)
