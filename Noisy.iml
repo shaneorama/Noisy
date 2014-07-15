@@ -10,6 +10,8 @@
     <orderEntry type="library" name="groovy-2.3.3" level="application" />
     <orderEntry type="library" name="jchart2d-3.2.2" level="project" />
     <orderEntry type="library" name="rsyntaxtextarea" level="project" />
+    <orderEntry type="library" name="substance" level="project" />
+    <orderEntry type="library" name="swingx-1.0" level="project" />
   </component>
 </module>
 

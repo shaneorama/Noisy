@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="substance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SubstanceLAF/laf-widget.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SubstanceLAF/substance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SubstanceLAF/substance-swingx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
