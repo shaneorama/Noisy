@@ -1,0 +1,4 @@
+<laf-plugin>
+	<component-plugin-class>org.jvnet.substance.plugin.BasePlugin</component-plugin-class>
+	<skin-plugin-class>org.jvnet.substance.plugin.BaseSkinPlugin</skin-plugin-class>
+</laf-plugin>
